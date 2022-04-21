@@ -1,3 +1,7 @@
 .navbar {
-  background-color: rgb(28, 25, 47);
+  background-color: antiquewhite;
+  color: white;
+}
+a {
+  color: black;
 }
