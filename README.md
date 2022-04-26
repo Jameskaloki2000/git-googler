@@ -1,4 +1,4 @@
-A Github finder that allows users to search for Github users by username and Github repositories by reponame , 17/05/2020.
+A Github finder that allows users to search for Github users by username and Github repositories by reponame , 26/April/2000.
 By James Malla
 Description
 On the application's landing page, we have a navigation bar and a brief definition of what the application is about. By clicking on the arrows at the bottom of the landing page, one is able to view the developer's github profile. Clicking on the 'Find a user' button displays an input field where one enters the username they wish to search. Similarly for the 'Find a repo' button. The search results then display relevant information on the Github user and Github repository respectively.
@@ -9,7 +9,7 @@ On the application's landing page, we have a navigation bar and a brief definiti
 
 Development
 Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run ng serve for a dev server. Navigate to  The app will automatically reload if you change any of the source files.
 
 Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
@@ -43,4 +43,4 @@ To-do
 Include pagination for API responses
 Include code that changes color of language indicator based on language used to write a specific repository
 License
-Copyright (c) 2020 Lorna Kamau
+
