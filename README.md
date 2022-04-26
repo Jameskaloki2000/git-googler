@@ -37,7 +37,7 @@ Technologies Used
 This project was generated with Angular CLI version 9.1.4. The technologies used are HTML, CSS, Typescript and Bootstrap.
 
 Support and contact details
-Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:kamaulorna@gmail.com
+Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:kalok2012@gmail.com
 
 To-do
 Include pagination for API responses
