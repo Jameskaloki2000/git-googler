@@ -1,27 +1,46 @@
-# GithubSearch
+A Github finder that allows users to search for Github users by username and Github repositories by reponame , 17/05/2020.
+By James Malla
+Description
+On the application's landing page, we have a navigation bar and a brief definition of what the application is about. By clicking on the arrows at the bottom of the landing page, one is able to view the developer's github profile. Clicking on the 'Find a user' button displays an input field where one enters the username they wish to search. Similarly for the 'Find a repo' button. The search results then display relevant information on the Github user and Github repository respectively.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Development
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-## Build
+Code scaffolding
+Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Build
+Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
 
-## Running unit tests
+Running unit tests
+Run ng test to execute the unit tests via Karma.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Running end-to-end tests
+Run ng e2e to execute the end-to-end tests via Protractor.
 
-## Running end-to-end tests
+Making modifications
+To make advancements/modifications, follow these steps:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Fork the repository
+Create a new branch (git checkout -b improve-feature)
+Make the appropriate changes in the files
+Add changes made
+Commit your changes (git commit -am 'Improve feature')
+Push to the branch (git push origin improve-feature)
+Create a Pull Request
+Technologies Used
+This project was generated with Angular CLI version 9.1.4. The technologies used are HTML, CSS, Typescript and Bootstrap.
 
-## Further help
+Support and contact details
+Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:kamaulorna@gmail.com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To-do
+Include pagination for API responses
+Include code that changes color of language indicator based on language used to write a specific repository
+License
+Copyright (c) 2020 Lorna Kamau
